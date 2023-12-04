@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/steppes" />
+    <item android:drawable="@drawable/tabor" />
+    <item android:drawable="@drawable/sheeps" />
+    <item android:drawable="@drawable/workgold" />
+    <item android:drawable="@drawable/scythiangold" />
+    <item android:drawable="@drawable/scythian_chieftains_tent" />
+</transition>

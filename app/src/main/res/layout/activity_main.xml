@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/main_background">
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="170dp"
+        android:layout_height="53dp"
+        android:background="@drawable/bigbt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="270dp"
+        android:fontFamily="@font/actavinia"
+        android:text="@string/start_game"
+        android:textColor="#F6E5AE"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/eventsArchiveButton"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:background="@drawable/btsm"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/startButton"
+        android:layout_marginTop="58dp"
+        android:fontFamily="@font/actavinia"
+        android:text="@string/events_archive"
+        android:textColor="#F6E5AE"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/quizzesButton"
+        android:layout_width="150dp"
+        android:layout_height="48dp"
+        android:background="@drawable/btsm"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/eventsArchiveButton"
+        android:layout_marginTop="33dp"
+        android:text="@string/quizzes"
+        android:textSize="24sp"
+        android:textColor="#F6E5AE"
+        android:fontFamily="@font/actavinia"/>
+
+</RelativeLayout>

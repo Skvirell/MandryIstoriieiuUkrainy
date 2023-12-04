@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/frame4">
+
+    <LinearLayout
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginStart="30dp"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/pelagy"
+            android:textStyle="bold"
+            android:text="@string/scy"
+            android:textColor="#F6E5AE"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:padding="5dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:src="@drawable/scach1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy1"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy2"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy3"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy4"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy5"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy6"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy7"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy8"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy9"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy10"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy11"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy12"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy13"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy14"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:textStyle="bold"
+            android:text="@string/scy15"
+            android:textColor="#F6E5AE"
+            android:textSize="18sp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/azbuka"
+            android:text="@string/scy16"
+            android:textColor="#F6E5AE"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:alpha="0.8"
+            android:padding="30dp">
+            <ImageButton
+                android:id="@+id/buttonReturnToArchive"
+                android:layout_width="200dp"
+                android:layout_height="55dp"
+                android:background="@drawable/btsm2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="@font/actavinia"
+                android:gravity="center"
+                android:text="@string/exit"
+                android:textColor="#F6E5AE"
+                android:textSize="22sp" />
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>
